@@ -4,7 +4,7 @@
 
 DEPLOYMENT LINK: https://asg4-esa.herokuapp.com/
 
-This repo is linked to heroku.
+This repo is linked to HEROKU.
 
 QUICK GUIDE:
 
